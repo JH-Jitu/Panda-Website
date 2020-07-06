@@ -16,7 +16,7 @@
     color: rgb(180, 131, 131);
 }
 .buy-now-button{
-    background-image: linear-gradient(to bottom, rgb(180, 131, 131), rgb(218, 139, 139));
+    background-image: linear-gradient(to bottom, rgb(170, 135, 162), rgb(112, 88, 106));
     border: none;
     color: white;
     border-radius: 5px;
@@ -45,4 +45,11 @@
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(204, 231, 240);
+}
+#subscribe{
+    height: 300px;
 }
