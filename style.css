@@ -31,13 +31,13 @@
     border-radius: 5px;
 }
 .cat-1{
-    background-image: linear-gradient(to bottom, rgb(187, 41, 41), rgb(255, 20, 20));
+    background-image: linear-gradient(to bottom, rgb(236, 145, 145), rgb(255, 125, 125));
 }
 .cat-2{
-    background-image: linear-gradient(to bottom, rgb(187, 41, 114), rgb(189, 9, 174));
+    background-image: linear-gradient(to bottom, rgb(182, 107, 145), rgb(218, 140, 185));
 }
 .cat-3{
-    background-image: linear-gradient(to bottom, rgb(41, 116, 187), rgb(3, 40, 83));
+    background-image: linear-gradient(to bottom, rgb(98, 151, 201), rgb(81, 132, 190));
 }
 .categories h1{
     color: rgb(245, 226, 226);
